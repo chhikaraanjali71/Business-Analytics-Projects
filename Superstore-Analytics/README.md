@@ -6,27 +6,27 @@ The goal is to identify key trends and opportunities that can help a business im
 
 🔧 Tools & Technologies Used
 
-Excel / Power BI 
+.Excel / Power BI 
 
-Data cleaning
+.Data cleaning
 
-Data modeling
+.Data modeling
 
-Visualization & storytelling
+.Visualization & storytelling
 
 🧹 Data Cleaning & Preparation
 
 Key steps:
 
-Removed duplicates
+.Removed duplicates
 
-Handled missing values
+.Handled missing values
 
-Converted data types
+.Converted data types
 
-Standardized date formats
+.Standardized date formats
 
-Created calculated fields (Profit Margin, YoY Growth, etc.)
+.Created calculated fields (Profit Margin, YoY Growth, etc.)
 
 📈 Key Analysis Performed
 
@@ -40,13 +40,13 @@ Created calculated fields (Profit Margin, YoY Growth, etc.)
 
 ⭐ Key Insights
 
-Some product categories generate high sales but very low profit due to heavy discounts.
+.Some product categories generate high sales but very low profit due to heavy discounts.
 
-West region shows highest profit contribution, while Central has inconsistent performance.
+.West region shows highest profit contribution, while Central has inconsistent performance.
 
-Furniture category is high revenue but low profitability.
+.Furniture category is high revenue but low profitability.
 
-High discount rates directly reduce profit margins.
+.High discount rates directly reduce profit margins.
 
 
 📝 Conclusion
