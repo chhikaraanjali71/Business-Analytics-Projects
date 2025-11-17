@@ -44,4 +44,4 @@ Each project has its own folder with:
 - SQL  
 
 ## ⭐ About Me
-Aspiring Data Analyst passionate about dashboarding, insights and solving real-world business problems.
+Aspiring Business Analyst passionate about dashboarding, insights and solving real-world business problems.
